@@ -1,4 +1,4 @@
-package ex4;
+package main.java.ex4;
 
 public class Person {
     private final String name;

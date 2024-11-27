@@ -1,4 +1,4 @@
-package intertry;
+package main.java.intertry;
 
 public class SaleAutumn implements Sale {
     public double totSenzaSconto() {

@@ -1,4 +1,4 @@
-package ex3;
+package main.java.ex3;
 
 public class Outcome {
     private Move A;

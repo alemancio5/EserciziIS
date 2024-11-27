@@ -1,4 +1,4 @@
-package ex15;
+package main.java.ex15;
 
 import java.util.Iterator;
 import java.util.Stack;

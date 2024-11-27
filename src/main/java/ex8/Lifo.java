@@ -1,4 +1,4 @@
-package ex8;
+package main.java.ex8;
 
 import java.util.Iterator;
 import java.util.Stack;

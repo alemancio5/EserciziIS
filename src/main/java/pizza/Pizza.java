@@ -1,4 +1,4 @@
-package pizza;
+package main.java.pizza;
 
 abstract class Pizza {
     public void backedIn (String s) {

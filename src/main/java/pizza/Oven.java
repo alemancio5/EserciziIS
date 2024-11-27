@@ -1,4 +1,4 @@
-package pizza;
+package main.java.pizza;
 
 public class Oven {
     public void bake (Pizza p) {

@@ -1,4 +1,4 @@
-package ex4;
+package main.java.ex4;
 
 import java.util.ArrayList;
 

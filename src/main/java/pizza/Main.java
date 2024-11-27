@@ -1,4 +1,4 @@
-package pizza;
+package main.java.pizza;
 
 public class Main {
     public static void main (String arg[]) {

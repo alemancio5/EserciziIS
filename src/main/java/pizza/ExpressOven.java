@@ -1,4 +1,4 @@
-package pizza;
+package main.java.pizza;
 
 public class ExpressOven extends Oven {
     public void bake (CheesePizza p) {

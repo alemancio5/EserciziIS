@@ -1,4 +1,4 @@
-package ex8;
+package main.java.ex8;
 
 public class Main {
     public static void main (String[] args) {

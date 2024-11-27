@@ -1,4 +1,4 @@
-package ex12;
+package main.java.ex12;
 
 public class Pokemon {
     enum TYPE {

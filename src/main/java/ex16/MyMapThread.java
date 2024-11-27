@@ -1,4 +1,4 @@
-package ex16;
+package main.java.ex16;
 
 public class MyMapThread extends Thread {
     private int id;

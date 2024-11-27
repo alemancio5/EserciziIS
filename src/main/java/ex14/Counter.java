@@ -1,4 +1,4 @@
-package ex14;
+package main.java.ex14;
 
 public class Counter {
     private int num;

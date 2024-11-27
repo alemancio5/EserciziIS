@@ -1,4 +1,4 @@
-package ex6;
+package main.java.ex6;
 
 import java.util.ArrayList;
 import java.util.List;

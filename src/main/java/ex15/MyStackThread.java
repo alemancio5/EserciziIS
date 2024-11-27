@@ -1,4 +1,4 @@
-package ex15;
+package main.java.ex15;
 
 public class MyStackThread extends Thread {
     private int id;

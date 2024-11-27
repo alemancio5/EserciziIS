@@ -1,4 +1,4 @@
-package pizza;
+package main.java.pizza;
 
 class VegetablePizza extends Pizza {
     public void backedIn (String s) {

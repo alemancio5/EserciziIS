@@ -1,4 +1,4 @@
-package ex6;
+package main.java.ex6;
 
 public interface TwoDimensionalCanvas {
     void drawPoint (Point p);

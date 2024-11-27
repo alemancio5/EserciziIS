@@ -1,4 +1,4 @@
-package ex11;
+package main.java.ex11;
 
 import java.util.Iterator;
 import java.util.Stack;

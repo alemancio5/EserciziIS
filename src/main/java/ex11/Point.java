@@ -1,4 +1,4 @@
-package ex11;
+package main.java.ex11;
 
 public class Point {
     private final int x;

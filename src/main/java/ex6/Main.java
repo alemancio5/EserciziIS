@@ -1,4 +1,4 @@
-package ex6;
+package main.java.ex6;
 
 public class Main {
     public static void main (String[] args) {

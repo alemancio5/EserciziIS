@@ -1,4 +1,4 @@
-package ex16;
+package main.java.ex16;
 
 public class Main {
     public static void main (String args[]) {

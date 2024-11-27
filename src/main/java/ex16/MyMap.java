@@ -1,4 +1,4 @@
-package ex16;
+package main.java.ex16;
 import java.util.HashMap;
 
 public class MyMap {

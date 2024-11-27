@@ -1,4 +1,4 @@
-package ex9;
+package main.java.ex9;
 
 import java.util.AbstractSet;
 import java.util.Set;

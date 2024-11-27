@@ -1,4 +1,4 @@
-package ex7;
+package main.java.ex7;
 
 public class Memorizza2<Type1, Type2> {
     private final Type1 element1;
